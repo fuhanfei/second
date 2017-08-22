@@ -8,4 +8,5 @@ public class Main {
         int i=10;
         System.out.println("aaaaaaaaaaa");
     }
+    public void  print(){}
 }
